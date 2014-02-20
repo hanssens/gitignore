@@ -19,3 +19,7 @@ doc/
 
 # Mac crap
 .DS_Store
+
+# RubyMine
+.idea/*
+log/*
