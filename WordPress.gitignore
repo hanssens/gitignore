@@ -31,3 +31,6 @@ $RECYCLE.BIN/
 
 # Mono / Xamarin Studio
 *.userprefs
+
+# JetBrainds
+.idea
