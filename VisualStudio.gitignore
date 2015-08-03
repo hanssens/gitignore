@@ -158,3 +158,6 @@ dist
 .tmp
 .sass-cache
 bower_components
+
+# VS2015 specifics
+.vs/
