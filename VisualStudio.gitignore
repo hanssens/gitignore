@@ -161,3 +161,6 @@ bower_components
 
 # VS2015 specifics
 .vs/
+
+# JetBrains
+.idea*
