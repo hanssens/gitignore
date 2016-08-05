@@ -164,3 +164,6 @@ bower_components
 
 # JetBrains
 .idea*
+
+# NUnit test results
+TestResult.xml
