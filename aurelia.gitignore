@@ -1,0 +1,31 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store
+
+# Mono / Xamarin Studio
+*.userprefs
+
+# Package Manager excludes, such as NPM and Bower
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+
+# VS2015 specifics
+.vs/
+
+# JetBrains
+.idea*
+
+# NUnit test results
+TestResult.xml
