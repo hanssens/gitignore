@@ -35,6 +35,7 @@ aurelia_project/**/*.js*
 !aurelia_project/aurelia.json
 scripts/*bundle.js*
 typings/globals/
+src/environment.ts
 
 # TypeScript
 typings
