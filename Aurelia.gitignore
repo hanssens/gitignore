@@ -30,12 +30,16 @@ bower_components
 # NUnit test results
 TestResult.xml
 
-# Aurelia specifics: CLI
+# Aurelia specifics: CLI (general)
 aurelia_project/**/*.js*
 !aurelia_project/aurelia.json
 scripts/*bundle.js*
 typings/globals/
 src/environment.ts
+
+# Aurelia specifics: CLI (TypeScript flavor)
+src/**/*.js
+src/**/*.js.map
 
 # TypeScript
 typings
