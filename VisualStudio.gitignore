@@ -293,3 +293,18 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+# Hanssens' customs below
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac
+.DS_Store
