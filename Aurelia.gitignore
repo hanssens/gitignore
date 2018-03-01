@@ -20,7 +20,6 @@ dist
 .tmp
 .sass-cache
 bower_components
-package-lock.json
 
 # VS2015 specifics
 .vs/
